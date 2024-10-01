@@ -7,3 +7,15 @@ body {
 header {
     border-bottom: solid 2px #09f2dc ;
 }
+
+section{
+    background: #774a3f;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
